@@ -1,0 +1,15 @@
+
+MultiForms (Windows Form)
+
+Forms are as follows:
+	Dashboard
+	Lotto Max
+	Lotto 6/49
+	Money Exchange (Converter)
+	Temperature (Converter)
+	IP4 Validator
+
+Here's the link:
+
+	https://drive.google.com/file/d/1dAyN-FJPDDbjwspFG_cjAyHL3X8oi_lJ/view?usp=sharing
+	
